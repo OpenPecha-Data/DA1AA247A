@@ -1,0 +1,11 @@
+id: a293813eeba1413f8616c95ce0488032
+annotation_type: index
+revision: '00001'
+annotations:
+  44f1867c817b43d7ab49499a6da23d70:
+    parts: {}
+    span:
+    - vol: 66
+      start: 0
+      end: 2419
+    work_id: T0249
