@@ -4,8 +4,8 @@ revision: '00001'
 annotations:
   44f1867c817b43d7ab49499a6da23d70:
     parts: {}
+    work_id: T0249
     span:
-    - vol: 66
+    - base: f46c
       start: 0
       end: 2090
-    work_id: T0249
